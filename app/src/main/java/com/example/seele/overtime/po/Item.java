@@ -8,10 +8,10 @@ public class Item {
     //标题
     public String title;
 
-    //时长
+    //时长 分钟
     public int minutes;
 
-    //日期
+    //日期 yyyymmdd
     public String date;
 
     //flg，0表示主类，1表示待办
